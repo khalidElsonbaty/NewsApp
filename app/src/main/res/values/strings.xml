@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">News</string>
+    //FaceBookSDK
+    <string name="facebook_app_id">394821914403319</string>
+    <string name="fb_login_protocol_scheme">fb394821914403319</string>
+
+
+    <string name="login_title">LOGIN</string>
+    <string name="login_username">Username</string>
+    <string name="login_password">Password</string>
+    <string name="login_remember_me">Remember Me</string>
+    <string name="login_forgot_password">Forgot Password?</string>
+    <string name="login_sign_in">SIGN IN</string>
+    <string name="login_sign_up">Do not have an account? Sign Up</string>
+    <string name="forget_password_send">Send</string>
+
+
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Create one</string>
+    <string name="text_already_member">Already a member? Login</string>
+    <string name="error_email_exists">Email Already Exists</string>
+
+
+</resources>
